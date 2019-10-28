@@ -1,4 +1,7 @@
 # DIY-miniPC-with-AtomicPi
+
+![](https://i.imgur.com/NPIF1Cl.jpg)
+
 This repository includes the 3d models, code, list of components and pictures in order to build a miniPC with the AtomicPi SBC.
 
 List of components used by me:
